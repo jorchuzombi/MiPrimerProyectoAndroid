@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo_size">72sp</dimen>
+    <dimen name="boton_texto_size">26sp</dimen>
+    <dimen name="boton_ancho">240dp</dimen>
+    <dimen name="boton_alto">72dp</dimen>
+</resources>
